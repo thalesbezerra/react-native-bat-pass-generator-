@@ -1,1 +1,1 @@
-![Tela Inicial do Gerador de Senhas](generat.png)
+![Tela Inicial do Gerador de Senhas](generate.png)
